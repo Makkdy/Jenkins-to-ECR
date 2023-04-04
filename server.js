@@ -1,5 +1,4 @@
 var http = require('http')
-
 var port = 4000
 
 var server = http.createServer(function (request, response) {
